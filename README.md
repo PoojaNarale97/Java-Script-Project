@@ -1,2 +1,2 @@
 # Java-Script-Project
-Developed a currency converter application that allows users to convert currency values. 
+Developed an interactive Rock-Paper-Scissors game using HTML, CSS, and JavaScript.
